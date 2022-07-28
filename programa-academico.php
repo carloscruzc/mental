@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>MENTAL - Programa Academico</title>
+	<title>MUSA - Programa Academico</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Eduport- LMS, Education and Course Theme">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/Icono.png">
+	<link rel="shortcut icon" href="assets/images/Musa0-01.png">
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -30,7 +30,6 @@
 	<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
 
 </head>
-
 
 <body>
 
@@ -81,7 +80,7 @@
 
 <!-- =======================
 Main Banner START -->
-<section class="bg-light" style="background-image: url('/assets/images/musa_fondo_0.jpeg'); background-size: cover;">
+<section class="bg-light" style="background-image: url('/assets/images/fondo_video_2.gif'); background-size: cover;">
 	<div class="container pt-0 mt-0 mt-lg-5">
 
 		<!-- Title and SVG START -->
@@ -167,10 +166,10 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-danger col-12 col-md-3" style="background: pink;"></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-danger col-12 col-md-3" style="background: #3E76B1;"></div>
 							<div class="col-12 col-md-9">
-								<h5 class="mb-0"><a href="#b1" class="stretched-link ">Módulo 1</a></h5>
-								<span>RETOS ACTUALES EN LOS TRASTORNOS AFECTIVOS</span>
+								<h5 class="mb-0"><a href="#b1" class="stretched-link ">Bloque 1</a></h5>
+								<span>Retos actuales en los trastornos afectivos</span>
 							</div>
 						</div>
 					</div>
@@ -183,10 +182,11 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-blue col-12 col-md-3" style="background: #d3fff4;"></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-blue col-12 col-md-3" style="background: #254A75;"></div>
 							<div class="col-12 col-md-9">
-								<h5 class="mb-0"><a href="#b2" class="stretched-link">Módulo 2</a></h5>
-								<span>IMÁGENES EN NEUROPSIQUIATRÍA: EL ABORDAJE DE LOS TRASTORNOS DEPRESIVOS</span>
+								<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
+								<span>Imágenes de Neuropsiquiatría: el abordaje de los
+								trastornos depresivos</span>
 							</div>
 						</div>
 					</div>
@@ -199,35 +199,16 @@ Category START -->
 					<div class="d-flex align-items-center">
 						<!-- Icon -->
 						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-success col-md-3" style="background-color: #bdfab6;"></div>
+							<div class="icon-lg bg-opacity-10 rounded-circle text-success col-md-3" style="background-color: #0F223C;"></div>
 							<div class="col-md-9">
-								<h5 class="mb-0"><a href="#b3" class="stretched-link">Módulo 3</a></h5>
-								<span>CLIMATERIO</span>
-								<span style="color: transparent;" >ENTREGA DE GUARDIA</span>
+								<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
+								<span>Entrega de guardia</span>
+								<span style="color: transparent;">aaaaaa</span>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-
-			<!-- Category item -->
-			<!-- <div class="col-sm-6 col-lg-4 col-xl-3">
-				<div class="card card-body shadow rounded-3">
-					<div class="d-flex align-items-center">
-						Icon
-						<div class="row m-1">
-							<div class="icon-lg bg-opacity-10 rounded-circle text-purple col-md-3" style="background-color: #9438f675;">
-							</div>
-							<div class="col-md-9">
-								<h5 class="mb-0"><a href="#b4" class="stretched-link">Bloque 4</a></h5>
-								<span>UNA HORMONA VITAL</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div> -->
-
-			
 		</div>
 	</div>
 </section>
@@ -237,453 +218,424 @@ Category END -->
 <!-- =======================
 Inicio del Programa -->
 
-<section class="" style="background-image: url('/assets/images/musa_fondo.jpeg'); ">
+<section class="" style="background-image: url('/assets/images/fondo_claro_mental.png'); ">
 	<div class="mx-md-6">
-		<div class="row mx-md-5 my-md-4" id="28-abril" >
+		<div class="row mx-md-5 my-md-4" id="" >
 			<div class="col-4 m-md-0 m-4 col-md-2">
 				<img style="border-radius: 25px;" src="/assets/images/28.png" alt="28 Abril">
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
-						<h5 class="col-2 card-horas fechas-horas">08:00-17:00</h5>
-						<h4 style="color: #0E203A;">Llegadas a cancún</h4>
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">08:00-17:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Llegadas a Cancún 
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 class="col-2 card-horas fechas-horas">19:00-19:30</h5>
-						<h4  style="color: #0E203A;">Coctail de Bienvenida</h4>
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">19:00-19:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Coctel de bienvenida</h4>
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
-						<h5 class="col-2 card-horas fechas-horas">19:30-22:30</h5>
-						<h4  style="color: #0E203A;">Cena de apertura</h4>
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">19:30-22:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Cena de apertura</h4>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mx-md-5 my-md-4" id="" >
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<img style="border-radius: 25px;" src="/assets/images/29.png" alt="29 Abril">
+			</div>
+			<div class="col-12 col-md-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">06:30-08:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Desayuno</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">08:30-08:45</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Apertura y bienvenida 
+									<br> 
+									<b class="subtitulos">Dr. Arturo Vázquez Leduc</b>
+									<br>
+									<b class="subtitulos-2">Director Médico, Asofarma de México</b>
+								</h4>
+							</div>
+						</div>
 					</li>
 				</ul>
 			</div>
 		</div>
 		<hr>
-		<div class="row mx-md-5 my-md-4" id="29-abril" >
+		<div class="row mx-md-5 my-md-4" id="b1">
 			<div class="col-4 m-md-0 m-4 col-md-2">
-				<img style="border-radius: 25px;" src="/assets/images/29.png" alt="29 Abril">
-				<h5 class="col-10 card-horas fechas-horas">09:40-10:05</h5>
+				<h5 class="card-horas fechas-horas">08:45-11:00</h5>
 			</div>
 			<div class="col-12 col-md-10">
-				<!-- <ul class="list-group">
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">07:30:00 - 09:00:00</h5>
-						<h4  style="color: #0E203A;">Desayuno</h4>
-					</li>
+				<ul class="list-group">
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-8">
-								<h5 class="col-3 card-horas fechas-horas">09:00:00 - 09:10:00</h5>
-								<h4  style="color: #0E203A;">Bienvenida - Introducción y Objetivos</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
-							</div>
-							<div class="col-4">
-
+							<div class="col-12 col-lg-12 titulos-m">
+								<h3 class="cajita fechas-horas sb3">MÓDULO 1:
+								<br> 
+									<b class="subtitulos-m">Dr. Manuel Sánchez de Carmona Luna y Parra</b>
+									<br>
+									<b class="subtitulos-m-2">Expresidente del Capítulo Mexicano de la
+										International Society for Bipolar Disorders, ISBD.
+									</b>
+								</h3>
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">09:10:00 - 09:40:00</h5>
-								<h4  style="color: #0E203A;">Un viaje, cuatro generaciones</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. Elsa Díaz (Ginecóloga) México</i></b>
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">08:45-09:15</h5>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_elsa_dia">
-								<img src="/assets/images/dr_musa/dra (3).png" alt="" class="photo">
-							</div>
-						</div>
-					</li>
-				</ul> -->
-				
-				<ul id="b1" class="list-group">
-					<li class="list-group-item list-borderless">
-						<h5 class="col-2 card-horas fechas-horas">06:30 - 08:00</h5>
-						<h4  style="color: #0E203A;">DESAYUNO</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-2 card-horas fechas-horas">08:30 - 08:45</h5>
-						<h4  style="color: #0E203A;">APERTURA Y BIENVENIDA</h4>
-						<b style="color: #3E76B1;">Dr. Arturo Vázquez Leduc</b><br>
-						<b style="color: #3E76B1;">Director Médico, Asofarma de México</b>
-					</li>
-					<li class="list-group-item list-borderless my-2">
-						<br><br><br><br><hr>	
-						<h3 class="cajita fechas-horas sb3">MÓDULO 1:</h3>
-					</li>
-					<br><br><br><br>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">09:40:00 - 10:05:00</h5>
-								<h4  style="color: #0E203A;">La sexualidad y el uso de anticonceptivos</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. David Barrios Martínez (Sexólogo), Dr. Gabriel Gallo (Ginecólogo) México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio">
-								<img src="/assets/images/dr_musa/dr (3).png" alt="" class="photo">
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Retos actuales en los trastornos afectivos
+									<br> 
+									<b class="subtitulos">Dr. Manuel Sánchez de Carmona Luna y Parra</b>
+									<br>
+									<b class="subtitulos-2">Expresidente del Capítulo Mexicano de la
+										International Society for Bipolar Disorders, ISBD.
+									</b>
+								</h4>
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">10:05:00 - 10:30:00</h5>
-								<h4  style="color: #0E203A;">Fertilidad en el siglo XXI</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Alejandro Villalobos Castro (Ginecólogo) Costa Rica</i></b>
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">09:15-09:45</h5>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_alejandro_villalobos"> 
-								<img src="/assets/images/dr_musa/dr (1).png" alt="" class="photo">
-							</div>
-						</div>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-8">
-								<h5 class="col-3 card-horas fechas-horas">10:30:00 - 10:55:00</h5>
-								<h4  style="color: #0E203A;">Complicaciones en la etapa reproductiva</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Gabriel Gallo (Ginecólogo), Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
-							</div>
-
-							<div class="col-4">
-								<div class="row">
-									<div class="col-6" data-toggle="modal" data-target="#doc_gabriel_gall">
-										<img src="/assets/images/dr_musa/dr (4).png" alt="" class="photo">
-									</div>
-									<div class="col-6" data-toggle="modal" data-target="#doc_juan_vele">
-										<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">10:55:00 - 11:25:00</h5>
-						<h4  style="color: #0E203A;">Preguntas y Respuestas</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">11:25:00 - 11:45:00</h5>
-						<h4  style="color: #0E203A;">Coffee break</h4>
-					</li>
-				</ul>
-				<ul id="b2" class="list-group">
-					<li class="list-group-item list-borderless my-2">
-						<hr>
-						<h3 style="color: rgb(242 101 251);">BLOQUE 2: INFECCIONES GENITOURINARIAS </h3>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9" >
-								<h5 class="col-3 card-horas fechas-horas">11:45:00 - 12:10:00</h5>
-								<h4  style="color: #0E203A;">Una mirada a la epidemiología de las infecciones genitourinarias en LATAM</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran">
-								<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">La ciencia y la controversia en la neuroprogresión
+									en trastornos afectivos
+									<br> 
+									<b class="subtitulos">Dr. Alfredo Bernardo Cuéllar Barboza</b>
+									<br>
+									<b class="subtitulos-2">Profesor y Coordinador General de Educación
+										de Psiquiatría por la UANL
+									</b>
+								</h4>
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">12:10:00 - 12:35:00</h5>
-								<h4  style="color: #0E203A;">Lecciones Aprendidas del Uso indiscriminado de Antibióticos en las IVU</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. Edna Cortés (Urólogo-Ginecólogo)México</i></b>
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">09:45-10:15</h5>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_edna_cortes">
-								<img src="/assets/images/dr_musa/dra (2).png" alt="" class="photo">
-							</div>
-						</div>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">12:35:00 - 13:00:00</h5>
-								<h4  style="color: #0E203A;">Lecciones Aprendidas del Uso indiscriminado de Antimicrobianos en las IV</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo) México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran">
-								<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Trastorno bipolar y comorbilidad
+									<br> 
+									<b class="subtitulos">Dr. Mauricio Tohen</b>
+									<br>
+									<b class="subtitulos-2">Profesor y presidente del Departamento de
+										Psiquiatría y Ciencias del Comportamiento del Centro de Ciencias
+										de la Salud de la Universidad de  Nuevo México, Albuquerque
+									</b>
+								</h4>
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-8">
-								<h5 class="col-3 card-horas fechas-horas">13:00:00 - 13:25:00</h5>
-								<h4  style="color: #0E203A;">Definiendo mejores prácticas para el abordaje de las Infecciones Genitourinarias</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. José Tirán (Ginecólogo-Infectólogo), Dra. Edna Cortés (Urólogo-Ginecólogo) México</i></b>
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">10:15-10:45</h5>
 							</div>
-							<div class="col-4">
-								<div class="row">
-									<div class="col-6" data-toggle="modal" data-target="#doc_jose_tiran">
-										<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
-									</div>
-									<div class="col-6" data-toggle="modal" data-target="#doc_edna_cortes">
-										<img src="/assets/images/dr_musa/dra (2).png" alt="" class="photo">
-									</div>
-								</div>
-							</div>
-						</div>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">13:25:00 - 13:55:00</h5>
-						<h4  style="color: #0E203A;">Preguntas y Respuestas</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">13:55:00 - 15:30:00</h5>
-						<h4  style="color: #0E203A;">Comida</h4>
-					</li>
-				</ul>
-				<ul id="b3" class="list-group">
-					<li class="list-group-item list-borderless my-2">
-						<hr>
-						<h3 style="color: rgb(242 101 251);">BLOQUE 3: CLIMATERIO </h3>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">15:30:00 - 16:00:00</h5>
-								<h4  style="color: #0E203A;">Estadificando a la mujer en etapa de Climaterio</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Manuel Mirassou (Médico Internista) México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_manuel_mirasso">
-								<img src="/assets/images/dr_musa/dr (8).png" alt="" class="photo">
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Sesión de Q&A 
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">16:00:00 - 16:25:00</h5>
-								<h4  style="color: #0E203A;">Salud ginecológica en el Climaterio</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">10:45-11:00</h5>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_jose_luis">
-								<img src="/assets/images/dr_musa/dr (5).png" alt="" class="photo">
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Break
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
 							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">16:25:00 - 16:50:00</h5>
-								<h4  style="color: #0E203A;">Salud Psico-emocional en el Climaterio</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_juan_vele">
-								<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">16:50:00 - 17:15:00</h5>
-								<h4  style="color: #0E203A;">¿Qué debe conocer el ginecólogo en prevención e imágenes mamarias en Cáncer de mama?</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_carlos_rencoret">
-								<img src="/assets/images/dr_musa/dr.png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">17:15:00 - 17:40:00</h5>
-								<h4  style="color: #0E203A;">Salud ósea en el Climaterio</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
-								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">17:40:00 - 18:10:00</h5>
-						<h4  style="color: #0E203A;">Preguntas y Respuestas</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">18:10:00 - 20:00:00</h5>
-						<h4  style="color: #0E203A;">Tiempo Libre</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">20:00:00 - 21:30:00</h5>
-						<h4  style="color: #0E203A;">Cena</h4>
+						</div>
 					</li>
 				</ul>
 			</div>
 		</div>
-		<div class="row mx-md-5 my-md-4" id="30-abril" >
+		<hr>
+		<div class="row mx-md-5 my-md-4" id="b2">
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<h5 class="card-horas fechas-horas">11:00-13:00</h5>
+			</div>
+			<div class="col-12 col-md-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-12 col-lg-12 titulos-m">
+								<h3 class="cajita fechas-horas sb3">MÓDULO 2:
+								<br> 
+									<b class="subtitulos-m">Dr. Jesús Ramírez Bermúdez</b>
+									<br>
+									<b class="subtitulos-m-2">Clínico investigador y profesor</b>
+									<br>
+									<b class="subtitulos-m-2">Instituto Nacional de Neurología y
+										Neurocirugía (INNN)
+									</b>
+								</h3>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">11:00-11:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Imágenes de Neuropsiquiatría: el abordaje de los
+										trastornos depresivos
+									<br> 
+									<b class="subtitulos">Dr. Jesús Ramírez Bermúdez</b>
+									<br>
+									<b class="subtitulos-2">Clínico investigador y profesor</b>
+									<br>
+									<b class="subtitulos-2">Instituto Nacional de Neurología y
+										Neurocirugía (INNN)
+									</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">11:30-12:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Depresión resistente al tratamiento. De la data a la bata
+									<br> 
+									<b class="subtitulos">Dr. Mauricio Tohen</b>
+									<br>
+									<b class="subtitulos-2">Profesor y presidente del Departamento de
+										Psiquiatría y Ciencias del Comportamiento del Centro de Ciencias
+										de la Salud de la Universidad de  Nuevo México, Albuquerque
+									</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">12:00-12:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Manejo de riesgo suicida
+									<br> 
+									<b class="subtitulos">Dra. María Yoldi Negrete</b>
+									<br>
+									<b class="subtitulos-2">Catedrática de CONACYT comisionada al
+										Instituto Nacional de Psiquiatría
+									</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">12:30-13:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Sesión de Q&A 
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">13:00-14:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Comida
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<hr>
+		<div class="row mx-md-5 my-md-4" id="b3">
+			<div class="col-4 m-md-0 m-4 col-md-2">
+				<h5 class="card-horas fechas-horas">14:30-16:00</h5>
+			</div>
+			<div class="col-12 col-md-10">
+				<ul class="list-group">
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-12 col-lg-12 titulos-m">
+								<h3 class="cajita fechas-horas sb3">MÓDULO 3:
+								<b style="font-size: 30px !important;" class="subtitulos-m">Entrega de guardia</b>
+								<br> 
+									<b class="subtitulos-m">Dr. Mauricio Tohen</b>
+									<br>
+									<b class="subtitulos-m-2">Profesor y presidente del Departamento de
+										Psiquiatría y Ciencias del Comportamiento del Centro de Ciencias
+										de la Salud de la Universidad de  Nuevo México, Albuquerque</b>
+								</h3>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">14:30-15:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">
+									<b class="subtitulos">Dr. Jesús Ramírez Bermúdez</b>
+									<br>
+									<b class="subtitulos-2">Clínico investigador y profesor</b>
+									<br>
+									<b class="subtitulos-2">Instituto Nacional de Neurología y
+										Neurocirugía (INNN)
+									</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">15:00-15:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">
+									<b class="subtitulos">Dr. Manuel Sánchez De Carmona Luna y Parra</b>
+									<br>
+									<b class="subtitulos-2">Expresidente del Capítulo Mexicano de la 
+										International Society for Bipolar Disorders, ISBD.
+									</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">15:30-16:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">
+									<b class="subtitulos">Dr. Mauricio Tohen</b>
+									<br>
+									<b class="subtitulos-2">Profesor y presidente del Departamento de
+										Psiquiatría y Ciencias del Comportamiento del Centro de Ciencias
+										de la Salud de la Universidad de  Nuevo México, Albuquerque</b>
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">16:00-16:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Interacción
+								</h4>
+							</div>
+						</div>
+					</li>
+					<li class="list-group-item list-borderless">
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">16:30-17:30</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Cierre
+								</h4>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<hr>
+		<div class="row mx-md-5 my-md-4" id="b3">
 			<div class="col-4 m-md-0 m-4 col-md-2">
 				<img style="border-radius: 25px;" src="/assets/images/30.png" alt="30 Abril">
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
 					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">07:30:00 - 09:00:00</h5>
-						<h4  style="color: #0E203A;">Desayuno </h4>
+						<div class="row">
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">08:00-09:00</h5>
+							</div>
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Desayuno 
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
+							</div>
+						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">09:00:00 - 09:30:00</h5>
-								<h4  style="color: #0E203A;">“Musas, Arte y Medicina”</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. César Velasco Tellez (Psiquiatra y sexólogo) México</i></b>
+							<div class="col-4 col-lg-3">
+								<h5 class="card-horas fechas-horas">Durante el día</h5>
 							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_cesar_velasco">
-								<img src="/assets/images/dr_musa/dr (2).png" alt="" class="photo">
+							<div class="col-8 col-lg-9">
+								<h4  class="titulos">Salidas
+									<br> 
+									<b class="subtitulos">Todos</b>
+								</h4>
 							</div>
-						</div>	
+						</div>
 					</li>
-				</ul>
-				<!-- <ul id="b4" class="list-group">
-					<li class="list-group-item list-borderless my-2">
-						<hr>
-						<h3 style="color: rgb(242 101 251);">BLOQUE 4: UNA HORMONA VITAL </h3>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">09:30:00 - 09:55:00</h5>
-								<h4  style="color: #0E203A;">Principios básicos</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. José Luis Neyro (Ginecólogo) España</i></b>
-							</div>
-							<div class="col-3"   data-toggle="modal" data-target="#doc_jose_luis">
-								<img src="/assets/images/dr_musa/dr (5).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">09:55:00 - 10:20:00</h5>
-								<h4  style="color: #0E203A;">Nueva normalidad y nuevos paradigmas</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
-								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">10:20:00 - 10:45:00</h5>
-								<h4  style="color: #0E203A;">Sistema Inmune y vitamina D</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Carlos Rencoret del Valle (Ginecólogo Oncólogo) Chile</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_carlos_rencoret">
-								<img src="/assets/images/dr_musa/dr.png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">10:45:00 - 11:00:00</h5>
-						<h4  style="color: #0E203A;">Preguntas y Respuestas</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">11:00:00 - 11:20:00</h5>
-						<h4  style="color: #0E203A;">Coffee break</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-8">
-								<h5 class="col-3 card-horas fechas-horas">11:20:00 - 11:45:00</h5>
-								<h4  style="color: #0E203A;">Salud osteo-muscular y Vitamina D</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. Margarita Duarte (Reumatóloga) Paraguay, Dr. Juan Vélez González (Neuropsiquiatra) México</i></b>
-							</div>
-
-							<div class="col-4">
-								<div class="row">
-									<div class="col-6" data-toggle="modal" data-target="#doc_margarita_duarte">
-										<img src="/assets/images/dr_musa/dra (4).png" alt="" class="photo">
-									</div>
-									<div class="col-6" data-toggle="modal" data-target="#doc_juan_vele">
-										<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
-									</div>
-								</div>
-							</div>
-
-							
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">11:45:00 - 12:10:00</h5>
-								<h4  style="color: #0E203A;">Síndrome Metabólico y Vitamina D</h4>
-								<b><i style="color: rgb(64 52 124);">Dra. María Belén Zanchetta (Endocrinólogo) Argentina</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen">
-								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">12:10:00 - 12:35:00</h5>
-								<h4  style="color: #0E203A;">Salud reproductiva y Vitamina D</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Víctor Mercado (Ginecólogo) México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_victor_mercad">
-								<img src="/assets/images/dr_musa/dr (9).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">12:35:00 - 13:05:00</h5>
-						<h4  style="color: #0E203A;">Preguntas y Respuestas</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">13:05:00 - 13:35:00</h5>
-								<h4  style="color: #0E203A;">”Aprendizajes de la virtualidad en nuestra práctica médica”</h4>
-								<b><i style="color: rgb(64 52 124);">Mtro. Enrique Culebro, México</i></b>
-							</div>
-							<div class="col-3" data-toggle="modal" data-target="#doc_mario_enrique">
-								<img src="/assets/images/dr_musa/dr (10).png" alt="" class="photo">
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">13:35:00 - 13:50:00</h5>
-						<h4  style="color: #0E203A;">Preguntas y Respuestas</h4>
-					</li>
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								<h5 class="col-3 card-horas fechas-horas">13:50:00 - 14:05:00</h5>
-								<h4  style="color: #0E203A;">Mensaje Final</h4>
-								<b><i style="color: rgb(64 52 124);">Dr. Arturo Vázquez (Director Médico) México</i></b>
-							</div>
-							<div class="col-3">
-
-							</div>
-						</div>	
-					</li>
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">14:05:00 - 15:35:00</h5>
-						<h4  style="color: #0E203A;">Comida</h4>
-					</li>
-				</ul> -->
-			</div>
-		</div>
-		<div class="row mx-md-5 my-md-4" id="1-mayo" >
-			<div class="col-4 m-md-0 m-4 col-md-2">
-				<img style="border-radius: 25px;" src="/assets/images/01.png" alt="1 Mayo">
-			</div>
-			<div class="col-12 col-md-10">
-				<ul class="list-group">
-					<li class="list-group-item list-borderless">
-						<h5 class="col-3 card-horas fechas-horas">09:00:00 - 19:00:00</h5>
-						<h4  style="color: #0E203A;">Regreso a residencias</h4>
-					</li> 
 				</ul>
 			</div>
 		</div>

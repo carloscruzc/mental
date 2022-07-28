@@ -79,6 +79,38 @@ img.light-mode-item {
 .fechas-horas{
 	background-image: linear-gradient(0deg, #3E76B1, #0E203A);
 }
+.titulos{
+	padding-left: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #0E203A;
+	box-shadow: -5px 0 4px -4px #000;
+	background: linear-gradient(90deg, transparent 2%,rgba(255, 255, 255, .75)  0%,rgba(255, 255, 255, .75)  100%);
+}
+.titulos-m{
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #0E203A;
+	box-shadow: -5px 0 4px -4px #000;
+	/* background-color: #F0F0F0 !important; */
+}
+.subtitulos{
+	font-size: 18px;
+	color: #313484;
+}
+.subtitulos-2{
+	font-size: 16px;
+	color: #5C5C5C;
+}
+.subtitulos-m{
+	font-size: 16px !important;
+	color: #FFF;
+}
+.subtitulos-m-2{
+	font-size: 14px !important;
+	color: #FFF;
+}
 .card-horas {
     word-wrap: break-word;
     background-color: #fff;
