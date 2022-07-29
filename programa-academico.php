@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>MUSA - Programa Academico</title>
+	<title>MENTAL - Programa Academico</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -10,7 +10,7 @@
 	<meta name="description" content="Eduport- LMS, Education and Course Theme">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/Musa0-01.png">
+	<link rel="shortcut icon" href="assets/images/Icono.png">
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -41,7 +41,7 @@
 		<div class="container">
 			<!-- Logo START -->
 			<a class="navbar-brand" href="home">
-				<img class="logo-head" src="assets/images/musa-01.png" alt="logo">
+				<img class="logo-head" src="assets/images/header.png" alt="logo">
 			</a>
 			<!-- Logo END -->
 
@@ -65,9 +65,6 @@
 					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
 				</ul>
-				<div id="adium-nb" class="navbar-brand">
-					<img class="logo-ha" id="adium" src="assets/images/adium.png" alt="logo">
-				</div>
 			</div>
 		</div>
 	</nav>
@@ -80,7 +77,7 @@
 
 <!-- =======================
 Main Banner START -->
-<section class="bg-light" style="background-image: url('/assets/images/fondo_video_2.gif'); background-size: cover;">
+<section class="bg-light" style="background-image: url(''); background-size: cover;">
 	<div class="container pt-0 mt-0 mt-lg-5">
 
 		<!-- Title and SVG START -->
@@ -117,7 +114,7 @@ Main Banner START -->
 				<!-- <h5>MUSA 2022</h5>
 				<p>Mujer Salud 2022 </p> -->
 				<hr style="opacity: .75; color: white;">
-				<img src="/assets/images/musa-01.png" width="400" alt="MUSA 2022" style="width: 50%;"class="photo">
+				<img src="/assets/images/header.png" width="400" alt="MUSA 2022" style="width: 100%;" class="">
 			</div>
 		</div>
 		<!-- Title and SVG END -->
@@ -218,11 +215,11 @@ Category END -->
 <!-- =======================
 Inicio del Programa -->
 
-<section class="" style="background-image: url('/assets/images/fondo_claro_mental.png'); ">
+<section class="">
 	<div class="mx-md-6">
 		<div class="row mx-md-5 my-md-4" id="" >
 			<div class="col-4 m-md-0 m-4 col-md-2">
-				<img style="border-radius: 25px;" src="/assets/images/28.png" alt="28 Abril">
+				<img style="border-radius: 25px;" src="/assets/images/18agosto.png" alt="18 Agosto">
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
@@ -264,7 +261,7 @@ Inicio del Programa -->
 		</div>
 		<div class="row mx-md-5 my-md-4" id="" >
 			<div class="col-4 m-md-0 m-4 col-md-2">
-				<img style="border-radius: 25px;" src="/assets/images/29.png" alt="29 Abril">
+				<img style="border-radius: 25px;" src="/assets/images/19agosto.png" alt="19 Agosto">
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
@@ -606,7 +603,7 @@ Inicio del Programa -->
 		<hr>
 		<div class="row mx-md-5 my-md-4" id="b3">
 			<div class="col-4 m-md-0 m-4 col-md-2">
-				<img style="border-radius: 25px;" src="/assets/images/30.png" alt="30 Abril">
+				<img style="border-radius: 25px;" src="/assets/images/20agosto.png" alt="20 Agosto">
 			</div>
 			<div class="col-12 col-md-10">
 				<ul class="list-group">
@@ -706,7 +703,7 @@ Footer START -->
 			<div class="col-lg-3">
 				<!-- logo -->
 				<a class="me-0" href="home">
-					<img class="light-mode-item" src="assets/images/musa.png" alt="logo" style="max-width: -webkit-fill-available;">
+					<img class="light-mode-item" src="assets/images/footer.png" alt="logo" style="max-width: -webkit-fill-available;">
 				</a>
 				<p class="my-3"></p>
 				
