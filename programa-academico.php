@@ -61,8 +61,9 @@
 				<ul class="navbar-nav navbar-nav-scroll mx-auto">
 					
 					<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
-					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
 				</ul>
 			</div>
@@ -114,7 +115,7 @@ Main Banner START -->
 				<!-- <h5>MUSA 2022</h5>
 				<p>Mujer Salud 2022 </p> -->
 				<hr style="opacity: .75; color: white;">
-				<img src="/assets/images/header.png" width="400" alt="MUSA 2022" style="width: 100%;" class="">
+				<img src="/assets/images/header.png" width="400" alt="MENTAL 2022" style="width: 100%;" class="">
 			</div>
 		</div>
 		<!-- Title and SVG END -->

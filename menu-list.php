@@ -37,7 +37,7 @@
 		<div class="container">
 			<!-- Logo START -->
 			<a class="navbar-brand" style="margin: 0px;" href="home">
-				<img class="logo-head" src="assets/images/musa-01.png" alt="logo">
+				<img class="logo-head" src="assets/images/header.png" alt="logo">
 				<img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
 			</a>
 			<!-- Logo END -->
@@ -59,11 +59,12 @@
 					<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
 				</ul>
-				<div id="adium-nb" class="navbar-brand">
+				<!-- <div id="adium-nb" class="navbar-brand">
 					<img id="adium" src="assets/images/adium.png" alt="logo">
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</nav>
@@ -499,7 +500,7 @@ Footer START -->
 			<div class="col-lg-3">
 				<!-- logo -->
 				<a class="me-0" href="home">
-					<img class="light-mode-item" src="assets/images/musa.png" alt="logo" style="max-width: -webkit-fill-available;">
+					<img class="light-mode-item" src="assets/images/footer.png" alt="logo" style="max-width: -webkit-fill-available;">
 				</a>
 				<p class="my-3"></p>
 				
