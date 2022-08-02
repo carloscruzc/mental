@@ -162,7 +162,7 @@ Category END -->
 <!-- =======================
 Inicio del Programa -->
 
-<section class="" style="background-image: url('/assets/images/musa_fondo.jpeg'); background-size: cover;">
+<section class="" style="background-image: url(''); background-size: cover;">
 	<div class="mx-md-6">
 		
 		<div class="row mx-md-5 my-md-4" id="29-abril" >
@@ -180,22 +180,25 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: #0E203A;">DRA. EDNA CORTÉS – MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia, especialista en tratamientos como: Urología Ginecológica, Incontinencia, Prolapso Genital, Problemas de Piso Pélvico, entre otros. </i></b>
+								<h4  style="color: #0E203A;">DR. MAURICIO TOHEN – MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Profesor y presidente del Departamento de
+										Psiquiatría y Ciencias del Comportamiento del Centro de Ciencias
+										de la Salud de la Universidad de  Nuevo México, Albuquerque</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_edna_cortes">
-								<img src="/assets/images/dr_musa/dra (2).png" alt="" class="photo">
+								<img src="/assets/images/dr_musa/1.png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
 						<div class="row">
 							<div class="col-9">
-								<h4  style="color: #0E203A;">DR. CARLOS RENCORET – CHILE</h4>
-								<b><i style="color: rgb(64 52 124);">Médico cirujano de la Universidad de Chile. Especialista en Ginecología y Obstetricia Facultad de Medicina de la Universidad de Chile. Especialista en Oncología Mamaria Unidad Patología Mamaria Hospital San Borja Arriarán.</i></b>
+								<h4  style="color: #0E203A;">DR. ALFREDO BERNARDO CUELLAR BARBOZA – MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Profesor y Coordinador General de Educación
+										de Psiquiatría por la UANL</i></b>
 							</div>
 							<div class="col-3" data-toggle="modal" data-target="#doc_rencornet"> 
-								<img src="/assets/images/dr_musa/dr.png" alt="" class="photo">
+								<img src="/assets/images/dr_musa/2.png" alt="" class="photo">
 							</div>
 						</div>
 					</li>
@@ -203,12 +206,13 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: #0E203A;">DR. JOSÉ LUIS NEYRO - ESPAÑA</h4>
-								<b><i style="color: rgb(64 52 124);">Médico Especialista en Obstetricia y Ginecología y Profesor de Post-Grado (Máster y Doctorado), en diferentes universidades nacionales e internacionales. Especialista en Climaterio y Menopausia.</i></b>
+								<h4  style="color: #0E203A;">DR. MANUEL SÁNCHEZ DE CARMONA LUNA Y PARRA - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Expresidente del Capítulo Mexicano de la
+										International Society for Bipolar Disorders, ISBD.</i></b>
 							</div>
 
 							<div class="col-3" data-toggle="modal" data-target="#doc_jose_luis"> 
-								<img src="/assets/images/dr_musa/dr (5).png" alt="" class="photo">
+								<img src="/assets/images/dr_musa/3.png" alt="" class="photo">
 							</div>
 
 						</div>
@@ -218,12 +222,13 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: #0E203A;">DR. CÉSAR TELLEZ VELASCO - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Médico, psiquiatra y terapeuta sexual y de pareja, con más de 25 años de experiencia en la atención de individuos y parejas. Ha sido profesor universitario en México y España, conferencista e investigador.</i></b>
+								<h4  style="color: #0E203A;">DRA. MARÍA YOLDI NEGRETE - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Catedrática de CONACYT comisionada al
+										Instituto Nacional de Psiquiatría</i></b>
 							</div>
 
 							<div class="col-3" data-toggle="modal" data-target="#doc_cesar_velasco"> 
-								<img src="/assets/images/dr_musa/dr (2).png" alt="" class="photo">
+								<img src="/assets/images/dr_musa/4.png" alt="" class="photo">
 							</div>
 
 						</div>
@@ -233,12 +238,13 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: #0E203A;">DR. JOSÉ TIRÁN SAUDECO - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia egresado del Instituto Tecnológico y de Estudios Superiores de Monterrey. Atiende a sus pacientes en el Hospital San José de la ciudad de Monterrey.</i></b>
+								<h4  style="color: #0E203A;">DR. JESÚS RAMÍREZ BERMÚDEZ - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Clínico investigador y profesor del Instituto Nacional de Neurología y
+										Neurocirugía (INNN)</i></b>
 							</div>
 
 							<div class="col-3" data-toggle="modal" data-target="#doc_jose_tiran"> 
-								<img src="/assets/images/dr_musa/dr (6).png" alt="" class="photo">
+								<img src="/assets/images/dr_musa/5.png" alt="" class="photo">
 							</div>
 
 						</div>
@@ -248,153 +254,12 @@ Inicio del Programa -->
 						<div class="row">
 							<div class="col-9">
 								
-								<h4  style="color: #0E203A;">DRA. MARÍA BELÉN ZANCHETTA - ARGENTINA</h4>
-								<b><i style="color: rgb(64 52 124);">Especialista en Endocrinología de la Universidad de Buenos Aires. Magíster en Osteología y Metabolismo Mineral. Directora médica y académica de IDIM y de la cátedra de post grado en Osteología y Metabolismo de la Universidad del Salvador.</i></b>
+								<h4  style="color: #0E203A;">DR. ARTURO VÁZQUEZ LEDUC - MÉXICO</h4>
+								<b><i style="color: rgb(64 52 124);">Director Médico, Asofarma de México.</i></b>
 							</div>
 
 							<div class="col-3" data-toggle="modal" data-target="#doc_maria_belen"> 
-								<img src="/assets/images/dr_musa/dra (1).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DRA. MARGARITA DUARTE - PARAGUAY</h4>
-								<b><i style="color: rgb(64 52 124);">Doctora en Medicina y Cirugía, especialista en Medicina Interna de la Facultad de Ciencias Médicas de la Universidad Nacional de Asunción y Especialista en Reumatología – Goethe Universitat de Frankfurt am Main, Alemania.</i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_margarita_duarte"> 
-								<img src="/assets/images/dr_musa/dra (4).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">LIC. ENRIQUE CULEBRO KARAM - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Licenciado en Mercadotecnia y Maestro en Tecnologías de la información por el Tecnológico de Monterrey, desde el 2001 es fundador y Director General en Central Media, conocida por ser una de las primeras agencias digitales en México.</i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_mario_enrique"> 
-								<img src="/assets/images/dr_musa/dr (10).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DR. ALEJANDRO VILLALOBOS CASTRO – COSTA RICA</h4>
-								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia y especialista en Perinatología de la Universidad de Costa Rica. Sub Especialista en Medicina Reproductiva Humana. Facultad de Medicina de Valencia España, e Instituto Valenciano de Infertilidad.</i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_alejandro_villalobos"> 
-								<img src="/assets/images/dr_musa/dr (1).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DRA. ELSA DÍAZ - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Especialista en el diagnóstico y tratamiento de colposcopía, colposcopía operatoria, electrocirugía, criocirugía y tratamientos de tracto genital inferior. Egresada de la (UNAM), posteriormente realizo la Especialidad en la (ULSA). Está certificada y recertificada por el Consejo de Ginecología y Obstetricia de México y actualmente es vocal del Colegio Mexicano de Especialistas en Ginecología y Obstetricia en la Ciudad de México. </i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_elsa_dia"> 
-								<img src="/assets/images/dr_musa/dra (3).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DR. DAVID BARRIOS MARTÍNEZ - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Médico cirujano por la Facultad de Medicina de la UNAM, con 40 años dedicados a la Docencia e Investigación en Sexología. Educador en Sexualidad por la Sociedad Mexicana de Sexología Humanista, También es psicoterapeuta Gestalt centrado en la persona, por el Instituto humanista de Psicoterapia Gestalt y Maestro en Ciencias sexológicas por la Universidad Abierta de México. Fue presidente de la Federación Mexicana de Educación Sexual y Sexología. </i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio"> 
-								<img src="/assets/images/dr_musa/dr (3).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DR. GABRIEL GALLO -MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Especialista en Ginecología y Obstetricia egresado de la Universidad Nacional Autónoma de México. </i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_david_barrio">
-							<img src="/assets/images/dr_musa/dr (4).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DR. MANUEL MIRASSOU - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Médico Cirujano egresado de la Facultad de Medicina de la U.N.A.M, médico del Hospital Español (Ciudad de México), miembro fundador de la (AMMOM), presidente de la asociación mexicana de metabolismo óseo y mineral e investigador clínico en diversos estudios relacionados con osteoporosis, osteoartropatías y síndrome metabólico.</i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_manuel_mirasso">
-							<img src="/assets/images/dr_musa/dr (8).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DR. JUAN VÉLEZ - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Médico Cirujano y Partero, egresado de la Universidad de Guadalajara. Con especialidad en psiquiatría en el Instituto Nacional de Neurología y Neurocirugía en la Ciudad de México. Trabajó por 10 años en la clínica de sueño de la UNAM en la Ciudad de México y 11 años como psiquiatra en el Gobierno de la Ciudad de México. Fue profesor de psiquiatría en la Facultad de Medicina de la Universidad Lasalle y actualmente dedica a la práctica privada por consulta virtual con sede en el hospital Médica Sur en la Ciudad de México.</i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_juan_vele">
-							<img src="/assets/images/dr_musa/dr (7).png" alt="" class="photo">
-							</div>
-
-						</div>
-					</li>
-					
-					<li class="list-group-item list-borderless">
-						<div class="row">
-							<div class="col-9">
-								
-								<h4  style="color: #0E203A;">DR. VÍCTOR MERCADO - MÉXICO</h4>
-								<b><i style="color: rgb(64 52 124);">Egresado de la Universidad Autónoma de Guadalajara
-Especialidad en Ginecologia y Obstetricia en el Hospital de Mexico 
-Certificado por el Consejo de la Especialidad 
-Investigador Clínico en Climaterio y Osteoporosis 
-Ex presidente de la AMMOM ( Asociacion Mexicana de Metabolismo Óseo y Mineral A.C.)
-Miembro actual del RAC Latinoamericano de la International Osteoporosis Fundation (IOF)
-Titular de la Clínica Integral de Menopausia del Centro Médico Dalinde</i></b>
-							</div>
-
-							<div class="col-3" data-toggle="modal" data-target="#doc_victor_mercado">
-							<img src="/assets/images/dr_musa/dr (9).png" alt="" class="photo">
+								<img src="/assets/images/dr_musa/6.png" alt="" class="photo">
 							</div>
 
 						</div>
@@ -471,7 +336,7 @@ Footer START -->
 			<div class="col-lg-3">
 				<!-- logo -->
 				<a class="me-0" href="home">
-					<img class="light-mode-item" src="assets/images/musa.png" alt="logo" style="max-width: -webkit-fill-available;">
+					<img class="light-mode-item" src="assets/images/footer.png" alt="logo" style="max-width: -webkit-fill-available;">
 				</a>
 				<p class="my-3"></p>
 				

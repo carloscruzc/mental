@@ -281,13 +281,16 @@ Inicio del Programa -->
 							<div class="col-4 col-lg-3">
 								<h5 class="card-horas fechas-horas">08:30-08:45</h5>
 							</div>
-							<div class="col-8 col-lg-9">
+							<div class="col-8 col-lg-6">
 								<h4  class="titulos">Apertura y bienvenida 
 									<br> 
 									<b class="subtitulos">Dr. Arturo Vázquez Leduc</b>
 									<br>
 									<b class="subtitulos-2">Director Médico, Asofarma de México</b>
 								</h4>
+							</div>
+							<div class="col-8 col-lg-3">
+								<img src="/assets/images/dr_musa/6.png" alt="alfredo">
 							</div>
 						</div>
 					</li>
@@ -320,7 +323,7 @@ Inicio del Programa -->
 							<div class="col-4 col-lg-3">
 								<h5 class="card-horas fechas-horas">08:45-09:15</h5>
 							</div>
-							<div class="col-8 col-lg-9">
+							<div class="col-8 col-lg-6">
 								<h4  class="titulos">Retos actuales en los trastornos afectivos
 									<br> 
 									<b class="subtitulos">Dr. Manuel Sánchez de Carmona Luna y Parra</b>
@@ -330,6 +333,9 @@ Inicio del Programa -->
 									</b>
 								</h4>
 							</div>
+							<div class="col-8 col-lg-3">
+								<img src="/assets/images/dr_musa/3.png" alt="alfredo">
+							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
@@ -337,7 +343,7 @@ Inicio del Programa -->
 							<div class="col-4 col-lg-3">
 								<h5 class="card-horas fechas-horas">09:15-09:45</h5>
 							</div>
-							<div class="col-8 col-lg-9">
+							<div class="col-8 col-lg-6">
 								<h4  class="titulos">La ciencia y la controversia en la neuroprogresión
 									en trastornos afectivos
 									<br> 
@@ -348,6 +354,9 @@ Inicio del Programa -->
 									</b>
 								</h4>
 							</div>
+							<div class="col-8 col-lg-3">
+								<img src="/assets/images/dr_musa/2.png" alt="alfredo">
+							</div>
 						</div>
 					</li>
 					<li class="list-group-item list-borderless">
@@ -355,7 +364,7 @@ Inicio del Programa -->
 							<div class="col-4 col-lg-3">
 								<h5 class="card-horas fechas-horas">09:45-10:15</h5>
 							</div>
-							<div class="col-8 col-lg-9">
+							<div class="col-8 col-lg-6">
 								<h4  class="titulos">Trastorno bipolar y comorbilidad
 									<br> 
 									<b class="subtitulos">Dr. Mauricio Tohen</b>
@@ -365,6 +374,9 @@ Inicio del Programa -->
 										de la Salud de la Universidad de  Nuevo México, Albuquerque
 									</b>
 								</h4>
+							</div>
+							<div class="col-8 col-lg-3">
+								<img src="/assets/images/dr_musa/1.png" alt="mauricio">
 							</div>
 						</div>
 					</li>
@@ -425,7 +437,7 @@ Inicio del Programa -->
 							<div class="col-4 col-lg-3">
 								<h5 class="card-horas fechas-horas">11:00-11:30</h5>
 							</div>
-							<div class="col-8 col-lg-9">
+							<div class="col-8 col-lg-6">
 								<h4  class="titulos">Imágenes de Neuropsiquiatría: el abordaje de los
 										trastornos depresivos
 									<br> 
@@ -437,6 +449,9 @@ Inicio del Programa -->
 										Neurocirugía (INNN)
 									</b>
 								</h4>
+							</div>
+							<div class="col-8 col-lg-3">
+								<img src="/assets/images/dr_musa/5.png" alt="alfredo">
 							</div>
 						</div>
 					</li>
@@ -463,7 +478,7 @@ Inicio del Programa -->
 							<div class="col-4 col-lg-3">
 								<h5 class="card-horas fechas-horas">12:00-12:30</h5>
 							</div>
-							<div class="col-8 col-lg-9">
+							<div class="col-8 col-lg-6">
 								<h4  class="titulos">Manejo de riesgo suicida
 									<br> 
 									<b class="subtitulos">Dra. María Yoldi Negrete</b>
@@ -472,6 +487,9 @@ Inicio del Programa -->
 										Instituto Nacional de Psiquiatría
 									</b>
 								</h4>
+							</div>
+							<div class="col-8 col-lg-3">
+								<img src="/assets/images/dr_musa/4.png" alt="alfredo">
 							</div>
 						</div>
 					</li>
