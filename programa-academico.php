@@ -290,7 +290,7 @@ Inicio del Programa -->
 								</h4>
 							</div>
 							<div class="col-8 col-lg-3">
-								<img src="/assets/images/dr_musa/6.png" alt="alfredo">
+								<img src="/assets/images/dr_musa/6.png" alt="arturo">
 							</div>
 						</div>
 					</li>
@@ -334,7 +334,7 @@ Inicio del Programa -->
 								</h4>
 							</div>
 							<div class="col-8 col-lg-3">
-								<img src="/assets/images/dr_musa/3.png" alt="alfredo">
+								<img src="/assets/images/dr_musa/3.png" alt="manuel">
 							</div>
 						</div>
 					</li>
@@ -451,7 +451,7 @@ Inicio del Programa -->
 								</h4>
 							</div>
 							<div class="col-8 col-lg-3">
-								<img src="/assets/images/dr_musa/5.png" alt="alfredo">
+								<img src="/assets/images/dr_musa/5.png" alt="jesús">
 							</div>
 						</div>
 					</li>
@@ -489,7 +489,7 @@ Inicio del Programa -->
 								</h4>
 							</div>
 							<div class="col-8 col-lg-3">
-								<img src="/assets/images/dr_musa/4.png" alt="alfredo">
+								<img src="/assets/images/dr_musa/4.png" alt="maría">
 							</div>
 						</div>
 					</li>
