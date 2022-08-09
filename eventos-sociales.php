@@ -291,12 +291,12 @@ Page Banner START -->
 							</div>
 						</div>
 						
-						<h2 style="text-shadow: 5px 5px 7px olivedrab;">Cóctel de Bienvenida</h2>
-						<h6>28 Abril 2022</h6>
+						<h2 style="text-shadow: 5px 5px 7px #9d9d9d;">Cóctel de Bienvenida</h2>
+						<h6>18 Agosto 2022</h6>
 						<h6>19:00 hrs</h6>
 						
 						<p style="color: black;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
-						<p style="color: black;">Lugar: Playón Pirámide.</p>
+						<p style="color: black;">Lugar: TERRAZA FIREPITS.</p>
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
 						
@@ -304,8 +304,118 @@ Page Banner START -->
 
 					<div class="col-md-6 text-center">
 						<!-- Image -->
-						<img style="box-shadow: 0px 0px 15px 10px olivedrab; border-radius: 5%; max-width: 30rem; background: lightcoral;" src="assets/images/coctel_bienvenida.png" class="h-300px h-xl-400px img-eventos" alt="">
+						<img style="box-shadow: 0px 0px 15px 10px #9d9d9d; border-radius: 5%; max-width: 30rem; background: lightcoral;" src="assets/images/coctel_bienvenida.png" class="h-300px h-xl-400px img-eventos" alt="">
 					</div>
+				</div>
+			</div>
+		</section>
+		<!-- =======================
+Page Banner END -->
+
+<!-- =======================
+Page Banner START -->
+		<section class="py-5 position-relative overflow-hidden" style="background-color: #85ca79;">
+			<!-- #CF7CAA40 -->
+			<!-- SVG decoration -->
+			<figure class="fill-primary opacity-1 position-absolute top-50 end-0 me-n6 d-none d-sm-block">
+				<svg width="211px" height="211px">
+					<path d="M210.030,105.011 C210.030,163.014 163.010,210.029 105.012,210.029 C47.013,210.029 -0.005,163.014 -0.005,105.011 C-0.005,47.015 47.013,-0.004 105.012,-0.004 C163.010,-0.004 210.030,47.015 210.030,105.011 Z" />
+				</svg>
+			</figure>
+
+			<!-- SVG decoration -->
+			<figure class="fill-primary position-absolute top-50 start-100 translate-middle ms-n7 mt-7 d-none d-sm-block">
+				<svg class="opacity-5" enable-background="new 0 0 160.7 159.8" height="180px">
+					<path d="m153.2 114.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m116.4 114.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m134.8 114.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m135.1 96.9c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m153.5 96.9c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m98.3 96.9c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<ellipse cx="116.7" cy="99.1" rx="2.1" ry="2.2"></ellipse>
+					<path d="m153.2 149.8c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.3 0.9-2.2 2.1-2.2z"></path>
+					<path d="m135.1 132.2c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2 0-1.3 0.9-2.2 2.1-2.2z"></path>
+					<path d="m153.5 132.2c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.3 0.9-2.2 2.1-2.2z"></path>
+					<path d="m80.2 79.3c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2z"></path>
+					<path d="m117 79.3c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m98.6 79.3c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m135.4 79.3c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m153.8 79.3c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m80.6 61.7c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<ellipse cx="98.9" cy="63.9" rx="2.1" ry="2.2"></ellipse>
+					<path d="m117.3 61.7c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<ellipse cx="62.2" cy="63.9" rx="2.1" ry="2.2"></ellipse>
+					<ellipse cx="154.1" cy="63.9" rx="2.1" ry="2.2"></ellipse>
+					<path d="m135.7 61.7c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m154.4 44.1c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m80.9 44.1c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m44.1 44.1c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m99.2 44.1c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2z"></path>
+					<ellipse cx="117.6" cy="46.3" rx="2.1" ry="2.2"></ellipse>
+					<path d="m136 44.1c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m62.5 44.1c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m154.7 26.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<path d="m62.8 26.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<ellipse cx="136.3" cy="28.6" rx="2.1" ry="2.2"></ellipse>
+					<path d="m99.6 26.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m117.9 26.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2z"></path>
+					<path d="m81.2 26.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2-0.1-1.2 0.9-2.2 2.1-2.2z"></path>
+					<path d="m26 26.5c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2c-1.2 0-2.1-1-2.1-2.2s0.9-2.2 2.1-2.2z"></path>
+					<ellipse cx="44.4" cy="28.6" rx="2.1" ry="2.2"></ellipse>
+					<path d="m136.6 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2 0.1 1.2-0.9 2.2-2.1 2.2z"></path>
+					<path d="m155 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2 0.1 1.2-0.9 2.2-2.1 2.2z"></path>
+					<path d="m26.3 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2s-0.9 2.2-2.1 2.2z"></path>
+					<path d="m81.5 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2s-0.9 2.2-2.1 2.2z"></path>
+					<path d="m63.1 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2s-0.9 2.2-2.1 2.2z"></path>
+					<path d="m44.7 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2s-0.9 2.2-2.1 2.2z"></path>
+					<path d="m118.2 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2 0.1 1.2-0.9 2.2-2.1 2.2z"></path>
+					<path d="m7.9 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2 0.1 1.2-0.9 2.2-2.1 2.2z"></path>
+					<path d="m99.9 13.2c-1.2 0-2.1-1-2.1-2.2s1-2.2 2.1-2.2c1.2 0 2.1 1 2.1 2.2s-1 2.2-2.1 2.2z"></path>
+				</svg>
+			</figure>
+
+			<!-- SVG decoration -->
+			<figure class="position-absolute bottom-0 start-0 d-none d-lg-block">
+				<svg width="822.2px" height="301.9px" viewBox="0 0 822.2 301.9">
+					<path style="fill: #f72e95 !important;" class="" d="M752.5,51.9c-4.5,3.9-8.9,7.8-13.4,11.8c-51.5,45.3-104.8,92.2-171.7,101.4c-39.9,5.5-80.2-3.4-119.2-12.1 c-32.3-7.2-65.6-14.6-98.9-13.9c-66.5,1.3-128.9,35.2-175.7,64.6c-11.9,7.5-23.9,15.3-35.5,22.8c-40.5,26.4-82.5,53.8-128.4,70.7 c-2.1,0.8-4.2,1.5-6.2,2.2L0,301.9c3.3-1.1,6.7-2.3,10.2-3.5c46.1-17,88.1-44.4,128.7-70.9c11.6-7.6,23.6-15.4,35.4-22.8 c46.7-29.3,108.9-63.1,175.1-64.4c33.1-0.6,66.4,6.8,98.6,13.9c39.1,8.7,79.6,17.7,119.7,12.1C634.8,157,688.3,110,740,64.6 c4.5-3.9,9-7.9,13.4-11.8C773.8,35,797,16.4,822.2,1l-0.7-1C796.2,15.4,773,34,752.5,51.9z" />
+				</svg>
+			</figure>
+
+
+
+
+			<div class="container position-relative">
+				<div class="row g-4 align-items-center">
+					<div id="derecha" class="col-md-6" style="text-align: center;">
+						<!-- Image -->
+						<img style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 5%; max-width: 30rem;" src="assets/images/cena_apertura.png" class="h-300px h-xl-400px img-evento" alt="">
+					</div>
+
+					<div class="col-md-6">
+						<!-- Title -->
+						<div class="jumbotron countdown show mt-3"  data-Date='2022/04/29 21:00:00'>
+							<div class="running">
+								<timer>
+								<div class="row">
+									<div class="col-3"><span class="days"></span><br><p>Días</p></div>
+									<div class="col-3"><span class="hours"></span><br><p>Horas</p></div>
+									<div class="col-3"><span class="minutes"></span><br><p>Minutos</p></div>
+									<div class="col-3"><span class="seconds"></span><br><p>Segundos</p></div>
+								</div>
+								</timer>
+							</div>
+						</div>
+						
+						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Apertura</h2>
+						<h6 style="color: white;">18 Agosto 2022</h6>
+						<h6 style="color: white;">19:30 hrs</h6>
+						<p style="color: white;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
+						<p style="color: white;">Lugar: TERRAZA FIREPITS.</p>
+						
+						<!-- Button -->
+						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
+					</div>
+
 				</div>
 			</div>
 		</section>
@@ -384,16 +494,12 @@ Page Banner START -->
 
 			<div class="container position-relative">
 				<div class="row g-4 align-items-center">
-					<div id="derecha" class="col-md-6" style="text-align: center;">
-						<!-- Image -->
-						<img style="box-shadow: 0px 0px 20px 5px cornflowerblue; border-radius: 5%; max-width: 30rem;" src="assets/images/cena_clausura.png" class="h-300px h-xl-400px img-evento" alt="">
-					</div>
-
 					<div class="col-md-6">
 						<!-- Title -->
-						<div class="jumbotron countdown show mt-3"  data-Date='2022/04/29 21:00:00'>
+						<div class="jumbotron countdown show mt-3" data-Date='2022/04/28 20:00:00'>
 							<div class="running">
-								<timer>
+								<timer style="color: #000;">
+
 								<div class="row">
 									<div class="col-3"><span class="days"></span><br><p>Días</p></div>
 									<div class="col-3"><span class="hours"></span><br><p>Horas</p></div>
@@ -403,17 +509,18 @@ Page Banner START -->
 								</timer>
 							</div>
 						</div>
-						
-						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Clausura</h2>
-						<h6 style="color: white;">29 Abril 2022</h6>
-						<h6 style="color: white;">20:00 hrs</h6>
-						<p style="color: #ddd;">Sea participe de nuestro evento final y acompáñenos para pasar una agradable velada.</p>
-						<p style="color: #ddd;">Lugar: Explanada Teatro del Agua.</p>
-						
+						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cóctel de Bienvenida</h2>
+						<h6 style="color:white">19 Agosto 2022</h6>
+						<h6 style="color:white">21:30 hrs</h6>
+						<p style="color: white;">Sea participe de nuestro evento final y acompáñenos para pasar una agradable velada.</p>
+						<p style="color: white;">Lugar: TERRAZA XCELERATE.</p>
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
 					</div>
-
+					<div class="col-md-6 text-center">
+						<!-- Image -->
+						<img style="box-shadow: 0px 0px 15px 10px cornflowerblue; border-radius: 5%; max-width: 30rem; background: lightcoral;" src="assets/images/cena_clausura.png" class="h-300px h-xl-400px img-eventos" alt="">
+					</div>
 				</div>
 			</div>
 		</section>
