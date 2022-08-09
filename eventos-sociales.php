@@ -200,7 +200,7 @@
 
 		<!-- =======================
 Page Banner START -->
-		<section class="py-5 position-relative overflow-hidden" style="background-color: #4cfd1087;">
+		<section class="py-5 position-relative overflow-hidden" style="background-color: #dcb2ff87;">
 			<!-- #CF7CAA40 -->
 			<!-- SVG decoration -->
 			<figure class="fill-primary opacity-1 position-absolute top-50 end-0 me-n6 d-none d-sm-block">
