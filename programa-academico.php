@@ -79,7 +79,7 @@
 
 		<!-- =======================
 Main Banner START -->
-		<section class="bg-light" style="background-image: url(''); background-size: cover;">
+		<section class="bg-light p-0" style="background-image: url(''); background-size: cover;">
 			<div class="container pt-0 mt-0 mt-lg-5">
 
 				<!-- Title and SVG START -->
@@ -112,7 +112,7 @@ Main Banner START -->
 				</figure> -->
 
 						<!-- Title -->
-						<h1>Programa Académico</h1>
+						<h1 class="mt-2">Programa Académico</h1>
 						<!-- <h5>MUSA 2022</h5>
 				<p>Mujer Salud 2022 </p> -->
 						<hr style="opacity: .75; color: white;">
@@ -314,7 +314,7 @@ Inicio del Programa -->
 											<br>
 											<b class="subtitulos-m-2">ExPresidente Mundial de la Sociedad Internacional de Trastornos Bipolares
 												Presidente Fundador del Capítulo Mexicano de la ISBD
-												Profesor de Psiquiatría Clínica de la Facultad de Medicina de la Universidad Anáhuac.
+												Profesor de Psiquiatría Clínica de la Facultad de Medicina de la Universidad Anáhuac
 											</b>
 										</h3>
 									</div>
@@ -332,7 +332,7 @@ Inicio del Programa -->
 											<br>
 											<b class="subtitulos-2">ExPresidente Mundial de la Sociedad Internacional de Trastornos Bipolares
 												Presidente Fundador del Capítulo Mexicano de la ISBD
-												Profesor de Psiquiatría Clínica de la Facultad de Medicina de la Universidad Anáhuac.
+												Profesor de Psiquiatría Clínica de la Facultad de Medicina de la Universidad Anáhuac
 											</b>
 										</h4>
 									</div>
