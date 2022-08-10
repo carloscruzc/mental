@@ -408,7 +408,7 @@ Page Banner START -->
 						<h2 style="color: black; text-shadow: 0px 5px 7px #777">Cena de Apertura</h2>
 						<h6 style="color: black;">18 Agosto 2022</h6>
 						<h6 style="color: black;">19:30 hrs</h6>
-						<p style="color: black;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
+						<p style="color: black;">Acompáñenos a la Cena que preparamos para darle la Bienvenida a este gran evento.</p>
 						<p style="color: black;">Lugar: TERRAZA FIREPITS.</p>
 						
 						<!-- Button -->
