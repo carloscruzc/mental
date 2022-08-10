@@ -98,7 +98,7 @@ Main Banner START -->
 					<div class="tiny-slider-inner" data-autoplay="false" data-gutter="0" data-arrow="true" data-dots="false" data-items="1">
 						
 						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/doctora-2.jpeg); background-position: center; background-size: cover;">
+						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/programa-academico.png); background-position: center; background-size: cover;">
 							<!-- Background dark overlay -->
 							<div class="bg-overlay bg-dark opacity-0"></div>
 							<!-- Card image overlay -->
@@ -116,7 +116,7 @@ Main Banner START -->
 						<!-- Card item END -->
 
 						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/restaurante.png); background-position: center; background-size: cover;">
+						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/eventos-sociales.png); background-position: center; background-size: cover;">
 							<!-- Background dark overlay -->
 							<div class="bg-overlay bg-dark opacity-0"></div>
 							<!-- Card image overlay -->
@@ -134,7 +134,7 @@ Main Banner START -->
 						<!-- Card item END -->
 
 						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/cena.jpg); background-position: center; background-size: cover;">
+						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/alimentos-bebidas.png); background-position: center; background-size: cover;">
 							<!-- Background dark overlay -->
 							<div class="bg-overlay bg-dark opacity-0"></div>
 							<!-- Card image overlay -->
