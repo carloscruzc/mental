@@ -200,7 +200,7 @@
 
 		<!-- =======================
 Page Banner START -->
-		<section class="py-5 position-relative overflow-hidden" style="background-color: #dcb2ff87;">
+		<section class="py-5 position-relative overflow-hidden" style="background-color: #000934;">
 			<!-- #CF7CAA40 -->
 			<!-- SVG decoration -->
 			<figure class="fill-primary opacity-1 position-absolute top-50 end-0 me-n6 d-none d-sm-block">
@@ -286,20 +286,19 @@ Page Banner START -->
 									<div class="col-3"><span class="minutes"></span><br><p>Minutos</p></div>
 									<div class="col-3"><span class="seconds"></span><br><p>Segundos</p></div>
 								</div>
-																										
 								</timer>
 							</div>
 						</div>
-						
-						<h2 style="text-shadow: 5px 5px 7px #9d9d9d;">Cóctel de Bienvenida</h2>
-						<h6>18 Agosto 2022</h6>
-						<h6>19:00 hrs</h6>
-						
-						<p style="color: black;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
-						<p style="color: black;">Lugar: TERRAZA FIREPITS.</p>
+
+						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cóctel de Bienvenida</h2>
+						<h6 style="color:white">18 Agosto 2022</h6>
+						<h6 style="color:white">19:00 hrs</h6>
+
+						<p style="color: white;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
+						<p style="color: white;">Lugar: TERRAZA FIREPITS.</p>
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
-						
+
 					</div>
 
 					<div class="col-md-6 text-center">
@@ -314,7 +313,7 @@ Page Banner END -->
 
 <!-- =======================
 Page Banner START -->
-		<section class="py-5 position-relative overflow-hidden" style="background-color: #85ca79;">
+		<section class="py-5 position-relative overflow-hidden" style="background-color: #fff;">
 			<!-- #CF7CAA40 -->
 			<!-- SVG decoration -->
 			<figure class="fill-primary opacity-1 position-absolute top-50 end-0 me-n6 d-none d-sm-block">
@@ -405,12 +404,12 @@ Page Banner START -->
 								</timer>
 							</div>
 						</div>
-						
-						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Apertura</h2>
-						<h6 style="color: white;">18 Agosto 2022</h6>
-						<h6 style="color: white;">19:30 hrs</h6>
-						<p style="color: white;">Acompáñenos al Cóctel que preparamos para darle la Bienvenida a este gran evento.</p>
-						<p style="color: white;">Lugar: TERRAZA FIREPITS.</p>
+
+						<h2 style="color: black; text-shadow: 0px 5px 7px #777">Cena de Apertura</h2>
+						<h6 style="color: black;">18 Agosto 2022</h6>
+						<h6 style="color: black;">19:30 hrs</h6>
+						<p style="color: black;">Acompáñenos a la Cena que preparamos para darle la Bienvenida a este gran evento.</p>
+						<p style="color: black;">Lugar: TERRAZA FIREPITS.</p>
 						
 						<!-- Button -->
 						<!-- <a href="#fill-instructor-form" class="btn btn-primary mb-0">Ver</a> -->
@@ -488,7 +487,7 @@ Page Banner START -->
 			<!-- SVG decoration -->
 			<figure class="position-absolute bottom-0 start-0 d-none d-lg-block">
 				<svg width="822.2px" height="301.9px" viewBox="0 0 822.2 301.9">
-					<path class="fill-warning" d="M752.5,51.9c-4.5,3.9-8.9,7.8-13.4,11.8c-51.5,45.3-104.8,92.2-171.7,101.4c-39.9,5.5-80.2-3.4-119.2-12.1 c-32.3-7.2-65.6-14.6-98.9-13.9c-66.5,1.3-128.9,35.2-175.7,64.6c-11.9,7.5-23.9,15.3-35.5,22.8c-40.5,26.4-82.5,53.8-128.4,70.7 c-2.1,0.8-4.2,1.5-6.2,2.2L0,301.9c3.3-1.1,6.7-2.3,10.2-3.5c46.1-17,88.1-44.4,128.7-70.9c11.6-7.6,23.6-15.4,35.4-22.8 c46.7-29.3,108.9-63.1,175.1-64.4c33.1-0.6,66.4,6.8,98.6,13.9c39.1,8.7,79.6,17.7,119.7,12.1C634.8,157,688.3,110,740,64.6 c4.5-3.9,9-7.9,13.4-11.8C773.8,35,797,16.4,822.2,1l-0.7-1C796.2,15.4,773,34,752.5,51.9z" />
+					<path style="fill: #f72e95 !important;" d="M752.5,51.9c-4.5,3.9-8.9,7.8-13.4,11.8c-51.5,45.3-104.8,92.2-171.7,101.4c-39.9,5.5-80.2-3.4-119.2-12.1 c-32.3-7.2-65.6-14.6-98.9-13.9c-66.5,1.3-128.9,35.2-175.7,64.6c-11.9,7.5-23.9,15.3-35.5,22.8c-40.5,26.4-82.5,53.8-128.4,70.7 c-2.1,0.8-4.2,1.5-6.2,2.2L0,301.9c3.3-1.1,6.7-2.3,10.2-3.5c46.1-17,88.1-44.4,128.7-70.9c11.6-7.6,23.6-15.4,35.4-22.8 c46.7-29.3,108.9-63.1,175.1-64.4c33.1-0.6,66.4,6.8,98.6,13.9c39.1,8.7,79.6,17.7,119.7,12.1C634.8,157,688.3,110,740,64.6 c4.5-3.9,9-7.9,13.4-11.8C773.8,35,797,16.4,822.2,1l-0.7-1C796.2,15.4,773,34,752.5,51.9z" />
 				</svg>
 			</figure>
 
@@ -509,7 +508,7 @@ Page Banner START -->
 								</timer>
 							</div>
 						</div>
-						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cóctel de Bienvenida</h2>
+						<h2 style="color: white; text-shadow: 0px 5px 7px #777">Cena de Clausura</h2>
 						<h6 style="color:white">19 Agosto 2022</h6>
 						<h6 style="color:white">21:30 hrs</h6>
 						<p style="color: white;">Sea participe de nuestro evento final y acompáñenos para pasar una agradable velada.</p>
