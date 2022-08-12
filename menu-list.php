@@ -117,7 +117,7 @@ Inner part START -->
 
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 224 208) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -176,7 +176,7 @@ Inner part START -->
 			
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 164 224) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -235,7 +235,7 @@ Inner part START -->
 
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 224 208) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -307,7 +307,7 @@ Inner part START -->
 
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 164 224) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -377,7 +377,7 @@ Inner part START -->
 
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 164 224) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -466,7 +466,7 @@ Inner part START -->
 			
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 224 208) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -525,7 +525,7 @@ Inner part START -->
 
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 164 224) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -587,7 +587,7 @@ Inner part START -->
 
 			<!-- Card item START -->
 			<div class="col-lg-10 col-xl-3">
-				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(64 224 208) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
