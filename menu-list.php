@@ -77,7 +77,7 @@
 
 <!-- =======================
 Page Banner START -->
-<section class="bg-dark b-shadow align-items-center d-flex" style="background:url(assets/images/pattern/04.png) no-repeat center center; background-size:cover;">
+<section class="bg-dark b-shadow align-items-center d-flex" style="background-image: linear-gradient(0deg, #3E76B1, #0E203A);">
 
 	<div class="container">
 		<div class="row">
@@ -111,13 +111,13 @@ Inner part START -->
 		<h1 class="text-xl-center text-center">Categorias</h1>
 		<br><br>
 
-		<h2 class="text-xl-center text-center">Coctel de Bienvenida</h2>
+		<h2 class="text-xl-center text-center">Cena de Apertura</h2>
 		<br><br>
 		<div class="row g-4 justify-content-center">
 
 			<!-- Card item START -->
-			<div class="col-lg-10 col-xl-4">
-				<div class="card b-shadow-lila card-size-movil p-2">
+			<div class="col-lg-10 col-xl-3">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -125,12 +125,13 @@ Inner part START -->
 						</div> -->
 
 						<!-- Card body -->
-						<div class="col-md-8 col-12">
+						<div class="col-md-12 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
-									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Canapés Fríos. <p></p> </a></h5>
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entrada </a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
@@ -146,7 +147,7 @@ Inner part START -->
 										</li> -->
 										<li class="li-numb">
 											<p>
-												Tartar de la salmón 
+												Ceviche Peruano
 											</p>
 										</li>
 									</ul>
@@ -162,7 +163,7 @@ Inner part START -->
 								</li> -->
 								<li class="li-numb">
 									<p>
-										Tartar de salmón 
+									Ceviche Peruano
 									</p>
 								</li>
 							</ul>
@@ -174,8 +175,8 @@ Inner part START -->
 			<!-- Card item END -->
 			
 			<!-- Card item START -->
-			<div class="col-lg-10 col-xl-4">
-				<div class="card  b-shadow-rosa card-size-movil p-2">
+			<div class="col-lg-10 col-xl-3">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -183,12 +184,13 @@ Inner part START -->
 						</div> -->
 
 						<!-- Card body -->
-						<div class="col-md-8 col-12">
+						<div class="col-md-12 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
-									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Canapés Calientes.</a></h5>
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Primer tiempo</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
@@ -199,8 +201,7 @@ Inner part START -->
 									<ul style="color: black;">
 										<li class="li-numb">
 											<p>
-												Setai de pollo, ajonjolí<br>
-												Tempura de camarones
+												Crema de Pimiento
 											</p>
 										</li>
 										<!-- <li class="li-numb">
@@ -216,8 +217,7 @@ Inner part START -->
 							<ul style="color: black;">
 								<li class="li-numb">
 									<p>
-										Setai de pollo, ajonjolí<br>
-										Tempura de camarones
+										Crema de Pimiento
 									</p>
 								</li>
 								<!-- <li class="li-numb">
@@ -234,8 +234,8 @@ Inner part START -->
 			<!-- Card item END -->
 
 			<!-- Card item START -->
-			<div class="col-lg-10 col-xl-4">
-				<div class="card  b-shadow-azul card-size-movil p-2">
+			<div class="col-lg-10 col-xl-3">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -243,12 +243,13 @@ Inner part START -->
 						</div> -->
 
 						<!-- Card body -->
-						<div class="col-md-8 col-12">
+						<div class="col-md-12 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
-									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Canapés Dulces.  <p></p></a></h5>
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Segundo tiempo</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Postre para todas las edades.</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light"> -->
@@ -262,7 +263,12 @@ Inner part START -->
 									<ul style="color: black;">
 										<li class="li-numb">
 											<p>
-												Canoli de mascarpone.
+												Pescado al limón con eneldo 
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Risotto de hongos con queso
 											</p>
 										</li>
 										<!-- <li class="li-numb">
@@ -278,11 +284,78 @@ Inner part START -->
 					</div>
 					<div id="card-desk" class="justify-content-sm-between align-items-center">
 						<ul style="color: black;">
-							<li class="li-numb">
+						<li class="li-numb">
+											<p>
+												Pescado al limón con eneldo 
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Risotto de hongos con queso
+											</p>
+										</li>
+							<!-- <li class="li-numb">
 								<p>
-									Canoli de mascarpone.
+									Las tres texturas de chocolate.
 								</p>
-							</li>
+							</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- Card item END -->
+
+			<!-- Card item START -->
+			<div class="col-lg-10 col-xl-3">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+					<div class="row g-0">
+						<!-- Image -->
+						<!-- <div class="col-md-4 text-center">
+							<img src="assets/images/menu/profiteroles.jpg" class="b-shadow-2 rounded-3" alt="..." style="max-width: -webkit-fill-available;">
+						</div> -->
+
+						<!-- Card body -->
+						<div class="col-md-12 col-12">
+							<div class="card-body">
+								<!-- Title -->
+								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Tercer tiempo</a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Postre para todas las edades.</p> -->
+									</div>
+									<!-- <span id="price-card" class="h6 fw-light"> -->
+										<!-- <i class="fas fa-dollar-sign text-success ms-1"></i>
+										80.00</span> -->
+								</div>
+								<!-- Content -->
+								
+							
+								<div id="card-movil" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
+									<ul style="color: black;">
+										<li class="li-numb">
+											<p>
+												Tarta de maracuyá / París Brest de avellana
+											</p>
+										</li>
+										<!-- <li class="li-numb">
+											<p>
+												Las tres texturas de chocolate.
+											</p>
+										</li> -->
+									</ul>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div id="card-desk" class="justify-content-sm-between align-items-center">
+						<ul style="color: black;">
+						<li class="li-numb">
+											<p>
+												Tarta de maracuyá / París Brest de avellana
+											</p>
+										</li>
 							<!-- <li class="li-numb">
 								<p>
 									Las tres texturas de chocolate.
@@ -298,13 +371,13 @@ Inner part START -->
 		</div>
 
 
-		<h2 class="text-xl-center text-center mt-6">Cena de Clausra</h2>
+		<h2 class="text-xl-center text-center mt-6">Cena de Clausura</h2>
 		<br><br>
 		<div class="row g-4 justify-content-center">
 
 			<!-- Card item START -->
-			<div class="col-lg-10 col-xl-4">
-				<div class="card b-shadow-lila card-size-movil p-2">
+			<div class="col-lg-10 col-xl-3">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -312,18 +385,19 @@ Inner part START -->
 						</div> -->
 
 						<!-- Card body -->
-						<div class="col-md-8 col-12">
+						<div class="col-md-12 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
-									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entrada <p></p> </a></h5>
-										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entrada para todos</p> -->
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Entrada </a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
-								<!-- <p class="text-truncate-1 mb-3">Pruebe nuestra variedad de Entrada.</p> -->
+								
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul style="color: black; font-size: small;">
 										<!-- <li class="li-numb">
@@ -333,7 +407,22 @@ Inner part START -->
 										</li> -->
 										<li class="li-numb">
 											<p>
-												Tostada de marlín, alioli de chipotle y microgreens.
+												Ensalada de hojas de lechugas
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Betabel
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+												Cremoso de queso de cabra
+											</p>
+										</li>
+										<li class="li-numb">
+											<p>
+											Vinagreta de balsámico
 											</p>
 										</li>
 									</ul>
@@ -349,7 +438,22 @@ Inner part START -->
 								</li> -->
 								<li class="li-numb">
 									<p>
-									 Tostada de marlín, alioli de chipotle y microgreens.
+										Ensalada de hojas de lechugas
+									</p>
+								</li>
+								<li class="li-numb">
+									<p>
+										Betabel
+									</p>
+								</li>
+								<li class="li-numb">
+									<p>
+										Cremoso de queso de cabra
+									</p>
+								</li>
+								<li class="li-numb">
+									<p>
+									Vinagreta de balsámico
 									</p>
 								</li>
 							</ul>
@@ -361,8 +465,8 @@ Inner part START -->
 			<!-- Card item END -->
 			
 			<!-- Card item START -->
-			<div class="col-lg-10 col-xl-4">
-				<div class="card  b-shadow-rosa card-size-movil p-2">
+			<div class="col-lg-10 col-xl-3">
+				<div class="card card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -370,23 +474,24 @@ Inner part START -->
 						</div> -->
 
 						<!-- Card body -->
-						<div class="col-md-8 col-12">
+						<div class="col-md-12 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
-									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Plato Fuerte</a></h5>
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Primer tiempo</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Plato fuerte y entradas para todos</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light">3.8<i class="fas fa-star text-warning ms-1"></i></span> -->
 								</div>
 								<!-- Content -->
-								<!-- <p class="text-truncate-2 mb-3">Pruebe nuesta gran variedad de Platillos.</p> -->
+								
 								<div id="card-movil" class="col-md-8 mt-md-3 d-sm-flex justify-content-sm-between align-items-center">
 									<ul style="color: black;">
 										<li class="li-numb">
 											<p>
-												Salmón con mantequilla de cilantro y verduras rostizadas.
+												Sopa de cebolla
 											</p>
 										</li>
 										<!-- <li class="li-numb">
@@ -402,7 +507,7 @@ Inner part START -->
 							<ul style="color: black;">
 								<li class="li-numb">
 									<p>
-										Salmón con mantequilla de cilantro y verduras rostizadas.
+										Sopa de cebolla
 									</p>
 								</li>
 								<!-- <li class="li-numb">
@@ -419,8 +524,8 @@ Inner part START -->
 			<!-- Card item END -->
 
 			<!-- Card item START -->
-			<div class="col-lg-10 col-xl-4">
-				<div class="card  b-shadow-azul card-size-movil p-2">
+			<div class="col-lg-10 col-xl-3">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
 					<div class="row g-0">
 						<!-- Image -->
 						<!-- <div class="col-md-4 text-center">
@@ -428,12 +533,13 @@ Inner part START -->
 						</div> -->
 
 						<!-- Card body -->
-						<div class="col-md-8 col-12">
+						<div class="col-md-12 col-12">
 							<div class="card-body">
 								<!-- Title -->
 								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
-									<div id="title-card">
-										<h5 class="card-title mb-0 text-center-movil"><a href="#">Postre  <p></p></a></h5>
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Segundo tiempo</a></h5>
 										<!-- <p class="small mb-2 mb-sm-0">Postre para todas las edades.</p> -->
 									</div>
 									<!-- <span id="price-card" class="h6 fw-light"> -->
@@ -441,13 +547,13 @@ Inner part START -->
 										80.00</span> -->
 								</div>
 								<!-- Content -->
-								<!-- <p class="text-truncate-2 mb-3">Pruebe nuestra gran variedad de postre.</p> -->
+								
 							
 								<div id="card-movil" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
 									<ul style="color: black;">
 										<li class="li-numb">
 											<p>
-												Profiteroles.
+												Res con salsa de champiñones con pure de papa al romero 
 											</p>
 										</li>
 										<!-- <li class="li-numb">
@@ -463,11 +569,73 @@ Inner part START -->
 					</div>
 					<div id="card-desk" class="justify-content-sm-between align-items-center">
 						<ul style="color: black;">
-							<li class="li-numb">
+						<li class="li-numb">
+											<p>
+												Res con salsa de champiñones con pure de papa al romero 
+											</p>
+										</li>
+							<!-- <li class="li-numb">
 								<p>
-									Profiteroles.
+									Las tres texturas de chocolate.
 								</p>
-							</li>
+							</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- Card item END -->
+
+			<!-- Card item START -->
+			<div class="col-lg-10 col-xl-3">
+				<div class="card  card-size-movil p-2" style="box-shadow: 0px 0px 25px 2px rgb(0 9 52) !important;background-color: rgb(0 9 52 /2%) !important;">
+					<div class="row g-0">
+						<!-- Image -->
+						<!-- <div class="col-md-4 text-center">
+							<img src="assets/images/menu/profiteroles.jpg" class="b-shadow-2 rounded-3" alt="..." style="max-width: -webkit-fill-available;">
+						</div> -->
+
+						<!-- Card body -->
+						<div class="col-md-12 col-12">
+							<div class="card-body">
+								<!-- Title -->
+								<div class="d-sm-flex justify-content-sm-between mb-2 mb-sm-3">
+									<!-- <div id="title-card"> -->
+									<div>
+										<h5 class="card-title mb-0 text-center-movil"><a href="#">Tercer tiempo</a></h5>
+										<!-- <p class="small mb-2 mb-sm-0">Postre para todas las edades.</p> -->
+									</div>
+									<!-- <span id="price-card" class="h6 fw-light"> -->
+										<!-- <i class="fas fa-dollar-sign text-success ms-1"></i>
+										80.00</span> -->
+								</div>
+								<!-- Content -->
+								
+							
+								<div id="card-movil" class="d-sm-flex mt-md-3 justify-content-sm-between align-items-center">
+									<ul style="color: black;">
+										<li class="li-numb">
+											<p>
+												Pastel de chocolate mexicano con helado de vainilla
+											</p>
+										</li>
+										<!-- <li class="li-numb">
+											<p>
+												Las tres texturas de chocolate.
+											</p>
+										</li> -->
+									</ul>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div id="card-desk" class="justify-content-sm-between align-items-center">
+						<ul style="color: black;">
+						<li class="li-numb">
+											<p>
+												Pastel de chocolate mexicano con helado de vainilla
+											</p>
+										</li>
 							<!-- <li class="li-numb">
 								<p>
 									Las tres texturas de chocolate.

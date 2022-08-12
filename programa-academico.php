@@ -168,7 +168,7 @@ Category START -->
 									<div class="icon-lg bg-opacity-10 rounded-circle text-danger col-12 col-md-3" style="background: #3E76B1;"></div>
 									<div class="col-12 col-md-9">
 										<h5 class="mb-0"><a href="#b1" class="stretched-link ">Bloque 1</a></h5>
-										<span>Retos actuales en los trastornos afectivos</span>
+										<span style="color: transparent;">Retos actuales en los trastornos afectivos</span>
 									</div>
 								</div>
 							</div>
@@ -184,7 +184,7 @@ Category START -->
 									<div class="icon-lg bg-opacity-10 rounded-circle text-blue col-12 col-md-3" style="background: #254A75;"></div>
 									<div class="col-12 col-md-9">
 										<h5 class="mb-0"><a href="#b2" class="stretched-link">Bloque 2</a></h5>
-										<span>Imágenes de Neuropsiquiatría: el abordaje de los
+										<span style="color: transparent;">Imágenes de Neuropsiquiatría: el abordaje de los
 											trastornos depresivos</span>
 									</div>
 								</div>
@@ -201,7 +201,7 @@ Category START -->
 									<div class="icon-lg bg-opacity-10 rounded-circle text-success col-md-3" style="background-color: #0F223C;"></div>
 									<div class="col-md-9">
 										<h5 class="mb-0"><a href="#b3" class="stretched-link">Bloque 3</a></h5>
-										<span>Entrega de guardia</span>
+										<span style="color: transparent;">Entrega de guardia</span>
 										<span style="color: transparent;">aaaaaa</span>
 									</div>
 								</div>
