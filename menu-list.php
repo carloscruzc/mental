@@ -407,22 +407,7 @@ Inner part START -->
 										</li> -->
 										<li class="li-numb">
 											<p>
-												Ensalada de hojas de lechugas
-											</p>
-										</li>
-										<li class="li-numb">
-											<p>
-												Betabel
-											</p>
-										</li>
-										<li class="li-numb">
-											<p>
-												Cremoso de queso de cabra
-											</p>
-										</li>
-										<li class="li-numb">
-											<p>
-											Vinagreta de balsámico
+												Ensalada de hojas de lechugas, betabel, cremoso de queso de cabra, vinagreta de balsámico.
 											</p>
 										</li>
 									</ul>
@@ -438,22 +423,7 @@ Inner part START -->
 								</li> -->
 								<li class="li-numb">
 									<p>
-										Ensalada de hojas de lechugas
-									</p>
-								</li>
-								<li class="li-numb">
-									<p>
-										Betabel
-									</p>
-								</li>
-								<li class="li-numb">
-									<p>
-										Cremoso de queso de cabra
-									</p>
-								</li>
-								<li class="li-numb">
-									<p>
-									Vinagreta de balsámico
+										Ensalada de hojas de lechugas, betabel, cremoso de queso de cabra, vinagreta de balsámico.
 									</p>
 								</li>
 							</ul>
