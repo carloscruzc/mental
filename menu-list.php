@@ -263,12 +263,7 @@ Inner part START -->
 									<ul style="color: black;">
 										<li class="li-numb">
 											<p>
-												Pescado al limón con eneldo 
-											</p>
-										</li>
-										<li class="li-numb">
-											<p>
-												Risotto de hongos con queso
+												Pescado al limón con eneldo / Risotto de hongos con queso
 											</p>
 										</li>
 										<!-- <li class="li-numb">
@@ -286,12 +281,7 @@ Inner part START -->
 						<ul style="color: black;">
 						<li class="li-numb">
 											<p>
-												Pescado al limón con eneldo 
-											</p>
-										</li>
-										<li class="li-numb">
-											<p>
-												Risotto de hongos con queso
+												Pescado al limón con eneldo / Risotto de hongos con queso
 											</p>
 										</li>
 							<!-- <li class="li-numb">
