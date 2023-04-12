@@ -10,7 +10,7 @@
 	<meta name="description" content="Eduport- LMS, Education and Course Theme">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="assets/images/Icono.png">
+	<link rel="shortcut icon" href="assets/images/Icono_2.png">
 
 	<!-- Google Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -37,7 +37,7 @@
 		<div class="container">
 			<!-- Logo START -->
 			<a class="navbar-brand" style="margin: 0px;" href="galeria">
-				<img class="logo-head" src="assets/images/header.png" alt="logo">
+				<img class="logo-head" src="assets/images/header_2.png" alt="logo">
 				<img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
 			</a>
 			<!-- Logo END -->
@@ -78,7 +78,7 @@
 
 <!-- =======================
 Page Banner START -->
-<section class="bg-dark b-shadow align-items-center d-flex" style="background-image: linear-gradient(0deg, #3E76B1, #0E203A);">
+<section class="bg-dark b-shadow align-items-center d-flex" style="background-image: linear-gradient(0deg, #BE194D, #0E203A);">
 
 	<div class="container">
 		<div class="row">
@@ -107,7 +107,7 @@ Inner part START -->
 				<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4">
 				<div class="card card-body">
 					<img src="assets/images/img-download/MENTAL-<?=$i?>.jpg" class="img-fluid" alt="" srcset="">
-					<a href="assets/images/img-download/MENTAL-<?=$i?>.jpg" download class="btn btn-success" target="_blank" rel="noopener noreferrer">Descargar</a>
+					<a href="assets/images/img-download/MENTAL-<?=$i?>.jpg" download class="btn" style="color:white;background-color: #BE194D;" target="_blank" rel="noopener noreferrer">Descargar</a>
 				</div>
 			</div>
 			<?php endfor;?>
@@ -131,7 +131,7 @@ Footer START -->
 			<div class="col-lg-3">
 				<!-- logo -->
 				<a class="me-0" href="home">
-					<img class="light-mode-item" src="assets/images/footer.png" alt="logo" style="max-width: -webkit-fill-available;">
+					<img class="light-mode-item" src="assets/images/header_2.png" alt="logo" style="max-width: -webkit-fill-available;">
 				</a>
 				<p class="my-3"></p>
 				
