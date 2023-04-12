@@ -60,11 +60,12 @@
 
 					<!-- Nav Main menu START -->
 					<ul class="navbar-nav navbar-nav-scroll mx-auto">
-						<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
-						<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
-						<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
-						<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
-						<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="galeria">Galeria</a></li>
 					</ul>
 					<!-- <div id="adium-nb" class="navbar-brand">
 					<img class="logo-ha" id="adium" src="assets/images/adium.png" alt="logo">

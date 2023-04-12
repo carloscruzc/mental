@@ -1,10 +1,7 @@
-<?php 
-	include 'url_amigable.php';
-?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>MENTAL - Página Principal</title>
+	<title>MENTAL - Menú</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
@@ -23,14 +20,12 @@
 	<!-- Plugins CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-icons/bootstrap-icons.css">
-	<link rel="stylesheet" type="text/css" href="assets/vendor/tiny-slider/tiny-slider.css">
+	<link rel="stylesheet" type="text/css" href="assets/vendor/choices/css/choices.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/lista-desplegable.css" />
 
 	<!-- Theme CSS -->
 	<link id="style-switch" rel="stylesheet" type="text/css" href="assets/css/style.css">
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	
 </head>
 
 <body>
@@ -41,8 +36,9 @@
 	<nav class="navbar navbar-expand-xl">
 		<div class="container">
 			<!-- Logo START -->
-			<a class="navbar-brand" href="home">
+			<a class="navbar-brand" style="margin: 0px;" href="home">
 				<img class="logo-head" src="assets/images/header.png" alt="logo">
+				<img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
 			</a>
 			<!-- Logo END -->
 
@@ -60,24 +56,16 @@
 
 				<!-- Nav Main menu START -->
 				<ul class="navbar-nav navbar-nav-scroll mx-auto">
-					
-				<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="galeria">Galeria</a></li>
-
-					<!-- Nav item 1 Demos -->
-					<!-- <li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle active" href="#" id="demoMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Páginas</a>
-						<ul class="dropdown-menu" aria-labelledby="demoMenu">
-							<li> <a class="dropdown-item" href="menu-list.html">Menú</a></li>
-							<li> <a class="dropdown-item" href="programa-academico.html">Programa Académico</a></li>
-							<li> <a class="dropdown-item" href="eventos-sociales.html">Eventos Sociales</a></li>
-						</ul>
-					</li> -->
 				</ul>
+				<!-- <div id="adium-nb" class="navbar-brand">
+					<img id="adium" src="assets/images/adium.png" alt="logo">
+				</div> -->
 			</div>
 		</div>
 	</nav>
@@ -89,83 +77,48 @@
 <main>
 
 <!-- =======================
-Main Banner START -->
-<section class="pt-0">
+Page Banner START -->
+<section class="bg-dark b-shadow align-items-center d-flex" style="background-image: linear-gradient(0deg, #3E76B1, #0E203A);">
+
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<!-- Slider START -->
-				<div class="tiny-slider arrow-round arrow-blur arrow-hover rounded-3 overflow-hidden">
-					<div class="tiny-slider-inner" data-autoplay="false" data-gutter="0" data-arrow="true" data-dots="false" data-items="1">
-						
-						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/programa-academico.png); background-position: center; background-size: cover;">
-							<!-- Background dark overlay -->
-							<div class="bg-overlay bg-dark opacity-0"></div>
-							<!-- Card image overlay -->
-              				<div class="card-img-overlay d-flex align-items-center p-3 p-sm-4"> 
-								<div class="w-100 my-auto">
-									<div class="row justify-content-center">
-										<div class="col-11 col-lg-6">
-											<br><br><br><br><br><br><br><br><br><br><br><br><br>
-											<a href="programa-academico" class="btn btn-danger mb-0">Consultar</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- Card item END -->
-
-						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/eventos-sociales.png); background-position: center; background-size: cover;">
-							<!-- Background dark overlay -->
-							<div class="bg-overlay bg-dark opacity-0"></div>
-							<!-- Card image overlay -->
-              				<div class="card-img-overlay d-flex align-items-center p-3 p-sm-4"> 
-								<div class="w-100 my-auto">
-									<div class="row justify-content-center">
-										<div class="col-11 col-lg-6">
-											<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-											<a href="eventos-sociales" class="btn btn-warning mb-0">Visitar</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- Card item END -->
-
-						<!-- Card item START -->
-						<div class="card overflow-hidden h-500px h-md-600px text-center rounded-0" style="background-image:url(assets/images/university/alimentos-bebidas.png); background-position: center; background-size: cover;">
-							<!-- Background dark overlay -->
-							<div class="bg-overlay bg-dark opacity-0"></div>
-							<!-- Card image overlay -->
-              				<div class="card-img-overlay d-flex align-items-center p-3 p-sm-4"> 
-								<div class="w-100 my-auto">
-									<div class="row justify-content-center">
-										<div class="col-11 col-lg-6">
-											<!-- Button -->
-											<br><br><br><br><br><br><br><br><br><br><br><br><br>
-											<a href="menu-list" class="btn btn-success mb-0">Ver Menú</a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- Card item END -->
-					</div>
+				<div class="p-4 text-center rounded-3" >
+					<h1 class="text-white m-0">Galería</h1>
+					<!-- Breadcrumb -->
 				</div>
-				<!-- Slider END -->
 			</div>
 		</div>
 	</div>
-
-	
 </section>
 <!-- =======================
-Main Banner END -->
+Page Banner END -->
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<!-- =======================
+Inner part START -->
+<section class="pt-4">
+	<div class="container">
+		
+		<!-- Instructor list START -->
+		<div class="row g-4 justify-content-center">
+
+			<!-- Card item START -->
+			<?php for($i = 1;$i < 160;$i++):?>
+				<div class="col-sm-12 col-md-12 col-lg-4 col-xl-4">
+				<div class="card card-body">
+					<img src="assets/images/img-download/MENTAL-<?=$i?>.jpg" class="img-fluid" alt="" srcset="">
+					<a href="assets/images/img-download/MENTAL-<?=$i?>.jpg" download class="btn btn-success" target="_blank" rel="noopener noreferrer">Descargar</a>
+				</div>
+			</div>
+			<?php endfor;?>
+			<!-- Card item END -->
+		</div>
+	</div>
+</section>
+<!-- =======================
+Inner part END -->
+</main>
+<!-- **************** MAIN CONTENT END **************** -->
 
 <!-- =======================
 Footer START -->
@@ -276,8 +229,7 @@ Footer END -->
 <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
 <!-- Vendors -->
-<script src="assets/vendor/purecounterjs/dist/purecounter_vanilla.js"></script>
-<script src="assets/vendor/tiny-slider/tiny-slider.js"></script>
+<script src="assets/vendor/choices/js/choices.min.js"></script>
 
 <!-- Template Functions -->
 <script src="assets/js/functions.js"></script>
