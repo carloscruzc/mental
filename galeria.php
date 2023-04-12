@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>MENTAL - Menú</title>
+	<title>MENTAL - Galería</title>
 
 	<!-- Meta Tags -->
 	<meta charset="utf-8">
