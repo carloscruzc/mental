@@ -36,7 +36,7 @@
 	<nav class="navbar navbar-expand-xl">
 		<div class="container">
 			<!-- Logo START -->
-			<a class="navbar-brand" style="margin: 0px;" href="home">
+			<a class="navbar-brand" style="margin: 0px;" href="galeria">
 				<img class="logo-head" src="assets/images/header.png" alt="logo">
 				<img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
 			</a>
@@ -56,11 +56,11 @@
 
 				<!-- Nav Main menu START -->
 				<ul class="navbar-nav navbar-nav-scroll mx-auto">
-					<li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
+					<!-- <li class="nav-item dropdown"><a class="dropdown-item" href="home">Inicio</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="programa-academico">Programa Académico</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="eventos-sociales">Eventos Sociales</a></li>
 					<li class="nav-item dropdown"><a class="dropdown-item" href="menu-list">Menú</a></li>
-					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li>
+					<li class="nav-item dropdown"><a class="dropdown-item" href="profesores">Profesores</a></li> -->
 					<li class="nav-item dropdown"><a class="dropdown-item" href="galeria">Galeria</a></li>
 				</ul>
 				<!-- <div id="adium-nb" class="navbar-brand">
