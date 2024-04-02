@@ -152,7 +152,7 @@ Footer START -->
 				<div class="col-lg-3">
 					<!-- logo -->
 					<a class="me-0" href="home">
-						<img class="light-mode-item" src="assets/images/header_2.png" alt="logo"
+						<img class="light-mode-item" src="assets/images/header_3.png" alt="logo"
 							style="max-width: -webkit-fill-available;">
 					</a>
 					<p class="my-3"></p>
