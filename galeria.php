@@ -86,9 +86,11 @@ Page Banner START -->
 	.gradiente{
 		background: linear-gradient(90deg, rgba(255,241,153,1) 0%, rgba(211,80,21,1) 35%, rgba(156,214,246,1) 70%, rgba(234,155,195,1) 100%);
 	}
+	.btn-gradiente{
+		background: linear-gradient(90deg,rgba(234,155,195,1) 0%, rgba(156,214,246,1) 35%, rgba(211,80,21,1) 70%, rgba(255,241,153,1) 100%);
+	}
 </style>
-		<section class="bg-dark b-shadow align-items-center d-flex gradiente"
-			style="">
+		<section class="bg-dark b-shadow align-items-center d-flex gradiente">
 
 			<div class="container">
 				<div class="row">
@@ -124,8 +126,8 @@ Inner part START -->
 							<div class="card card-body">
 								<img src="assets/images/img-download-2024/Mental health_<?= $numeroString ?>.jpg" class="img-fluid" alt=""
 									srcset="">
-								<a href="assets/images/img-download-2024/Mental health_<?= $numeroString ?>.jpg" download class="btn"
-									style="color:white;background-color: #AF1352;" target="_blank"
+								<a href="assets/images/img-download-2024/Mental health_<?= $numeroString ?>.jpg" download class="btn btn-gradiente"
+									style="color:white;" target="_blank"
 									rel="noopener noreferrer">Descargar</a>
 							</div>
 						</div>
