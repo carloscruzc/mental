@@ -87,7 +87,7 @@ Page Banner START -->
 		background: linear-gradient(90deg, rgba(255,241,153,1) 0%, rgba(211,80,21,1) 35%, rgba(156,214,246,1) 70%, rgba(234,155,195,1) 100%);
 	}
 </style>
-		<section class="bg-dark b-shadow align-items-center d-flex"
+		<section class="bg-dark b-shadow align-items-center d-flex gradiente"
 			style="">
 
 			<div class="container">
